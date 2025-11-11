@@ -92,7 +92,7 @@ task-analyzer/
 ## 🚀 Usage
 ```
 
-git clone [https://github.com/manvikgoyal01/task-analyzer.git](https://github.com/manvikgoyal01/task-analyzer.git)
+git clone https://github.com/manvikgoyal01/task-analyzer.git
 cd task-analyzer
 python src/main.py
 
