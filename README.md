@@ -101,7 +101,7 @@ python src/main.py
 Login or create a new user when prompted.  
 Follow the on-screen options to add, edit, view, and analyze your tasks.
 
----
+
 
 ## 📈 Key Metrics
 - Average & expected task duration  
@@ -110,4 +110,3 @@ Follow the on-screen options to add, edit, view, and analyze your tasks.
 - Average delay / early time  
 - Consistency (standard deviation)  
 - Category and count breakdown  
-```
