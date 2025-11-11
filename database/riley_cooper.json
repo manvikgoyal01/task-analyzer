@@ -1,0 +1,120 @@
+{
+    "userstats": {
+        "Username": "riley_cooper",
+        "Total Tasks": 9,
+        "Completed Tasks": 8,
+        "Ongoing Tasks": 1,
+        "Late Tasks": 3,
+        "On-Time Rate (%)": 62.5
+    },
+    "userdata": {
+        "1": {
+            "Task Name": "Implement API endpoints",
+            "Task Type": "Work",
+            "Task Importance": "High",
+            "Start Time": "2025-11-01 10:00:00",
+            "Deadline": "2025-11-01 18:00:00",
+            "Completed On": "2025-11-01 17:50:00",
+            "Was Late": false,
+            "Duration": "0 days 07:50:00",
+            "Is Outlier": false,
+            "Notes": "Auth + user routes"
+        },
+        "2": {
+            "Task Name": "Fix UI bugs",
+            "Task Type": "Work",
+            "Task Importance": "Medium",
+            "Start Time": "2025-11-02 14:00:00",
+            "Deadline": "2025-11-02 16:00:00",
+            "Completed On": "2025-11-02 16:45:00",
+            "Was Late": true,
+            "Duration": "0 days 02:45:00",
+            "Is Outlier": false,
+            "Notes": "Minor layout fixes"
+        },
+        "3": {
+            "Task Name": "Team stand-up meeting",
+            "Task Type": "Work",
+            "Task Importance": "Low",
+            "Start Time": "2025-11-03 10:00:00",
+            "Deadline": "2025-11-03 10:30:00",
+            "Completed On": "2025-11-03 10:25:00",
+            "Was Late": false,
+            "Duration": "0 days 00:25:00",
+            "Is Outlier": false,
+            "Notes": ""
+        },
+        "4": {
+            "Task Name": "Code review for teammate",
+            "Task Type": "Work",
+            "Task Importance": "High",
+            "Start Time": "2025-11-04 13:00:00",
+            "Deadline": "2025-11-04 15:00:00",
+            "Completed On": "2025-11-04 14:55:00",
+            "Was Late": false,
+            "Duration": "0 days 01:55:00",
+            "Is Outlier": false,
+            "Notes": "Reviewed PR #114"
+        },
+        "5": {
+            "Task Name": "Evening jog",
+            "Task Type": "Health",
+            "Task Importance": "Medium",
+            "Start Time": "2025-11-05 18:30:00",
+            "Deadline": "2025-11-05 19:15:00",
+            "Completed On": "2025-11-05 19:25:00",
+            "Was Late": true,
+            "Duration": "0 days 00:55:00",
+            "Is Outlier": false,
+            "Notes": "5.2 km jog"
+        },
+        "6": {
+            "Task Name": "Read tech blog",
+            "Task Type": "Personal",
+            "Task Importance": "Low",
+            "Start Time": "2025-11-06 21:00:00",
+            "Deadline": "2025-11-06 22:00:00",
+            "Completed On": "2025-11-06 22:00:00",
+            "Was Late": false,
+            "Duration": "0 days 01:00:00",
+            "Is Outlier": false,
+            "Notes": "Read about Rust async"
+        },
+        "7": {
+            "Task Name": "Work on side project",
+            "Task Type": "Work",
+            "Task Importance": "High",
+            "Start Time": "2025-11-07 20:00:00",
+            "Deadline": "2025-11-08 01:00:00",
+            "Completed On": "2025-11-08 02:10:00",
+            "Was Late": true,
+            "Duration": "0 days 06:10:00",
+            "Is Outlier": false,
+            "Notes": "API integration"
+        },
+        "8": {
+            "Task Name": "Meditation break",
+            "Task Type": "Personal",
+            "Task Importance": "Low",
+            "Start Time": "2025-11-09 07:30:00",
+            "Deadline": "2025-11-09 08:00:00",
+            "Completed On": "2025-11-09 07:55:00",
+            "Was Late": false,
+            "Duration": "0 days 00:25:00",
+            "Is Outlier": false,
+            "Notes": "Morning session"
+        },
+        "9": {
+            "Task Name": "Plan sprint backlog",
+            "Task Type": "Work",
+            "Task Importance": "High",
+            "Start Time": "2025-11-11 09:00:00",
+            "Deadline": "2025-11-11 12:00:00",
+            "Completed On": "Ongoing",
+            "Was Late": null,
+            "Duration": null,
+            "Is Outlier": false,
+            "Notes": ""
+        }
+    }
+}

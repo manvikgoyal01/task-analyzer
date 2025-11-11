@@ -1,0 +1,132 @@
+{
+    "userstats": {
+        "Username": "hayden_parker",
+        "Total Tasks": 10,
+        "Completed Tasks": 9,
+        "Ongoing Tasks": 1,
+        "Late Tasks": 1,
+        "On-Time Rate (%)": 88.9
+    },
+    "userdata": {
+        "1": {
+            "Task Name": "Morning workout session",
+            "Task Type": "Health",
+            "Task Importance": "High",
+            "Start Time": "2025-11-02 06:00:00",
+            "Deadline": "2025-11-02 07:30:00",
+            "Completed On": "2025-11-02 07:20:00",
+            "Was Late": false,
+            "Duration": "0 days 01:20:00",
+            "Is Outlier": false,
+            "Notes": "Strength training"
+        },
+        "2": {
+            "Task Name": "Client nutrition consultation",
+            "Task Type": "Work",
+            "Task Importance": "High",
+            "Start Time": "2025-11-03 10:00:00",
+            "Deadline": "2025-11-03 11:00:00",
+            "Completed On": "2025-11-03 10:55:00",
+            "Was Late": false,
+            "Duration": "0 days 00:55:00",
+            "Is Outlier": false,
+            "Notes": "Session with new client"
+        },
+        "3": {
+            "Task Name": "Grocery shopping for meal prep",
+            "Task Type": "Personal",
+            "Task Importance": "Medium",
+            "Start Time": "2025-11-03 17:00:00",
+            "Deadline": "2025-11-03 18:00:00",
+            "Completed On": "2025-11-03 18:10:00",
+            "Was Late": true,
+            "Duration": "0 days 01:10:00",
+            "Is Outlier": false,
+            "Notes": "Store was crowded"
+        },
+        "4": {
+            "Task Name": "Plan client workout routines",
+            "Task Type": "Work",
+            "Task Importance": "High",
+            "Start Time": "2025-11-04 09:00:00",
+            "Deadline": "2025-11-04 11:00:00",
+            "Completed On": "2025-11-04 10:40:00",
+            "Was Late": false,
+            "Duration": "0 days 01:40:00",
+            "Is Outlier": false,
+            "Notes": "3 new clients added"
+        },
+        "5": {
+            "Task Name": "Meal prep for the week",
+            "Task Type": "Personal",
+            "Task Importance": "Medium",
+            "Start Time": "2025-11-05 16:00:00",
+            "Deadline": "2025-11-05 19:00:00",
+            "Completed On": "2025-11-05 18:45:00",
+            "Was Late": false,
+            "Duration": "0 days 02:45:00",
+            "Is Outlier": false,
+            "Notes": ""
+        },
+        "6": {
+            "Task Name": "Evening yoga session",
+            "Task Type": "Health",
+            "Task Importance": "Medium",
+            "Start Time": "2025-11-06 18:30:00",
+            "Deadline": "2025-11-06 19:15:00",
+            "Completed On": "2025-11-06 19:05:00",
+            "Was Late": false,
+            "Duration": "0 days 00:35:00",
+            "Is Outlier": false,
+            "Notes": ""
+        },
+        "7": {
+            "Task Name": "Social media post",
+            "Task Type": "Work",
+            "Task Importance": "Low",
+            "Start Time": "2025-11-07 12:00:00",
+            "Deadline": "2025-11-07 12:30:00",
+            "Completed On": "2025-11-07 12:25:00",
+            "Was Late": false,
+            "Duration": "0 days 00:25:00",
+            "Is Outlier": false,
+            "Notes": "Posted fitness tips"
+        },
+        "8": {
+            "Task Name": "Client feedback review",
+            "Task Type": "Work",
+            "Task Importance": "High",
+            "Start Time": "2025-11-08 09:00:00",
+            "Deadline": "2025-11-08 09:45:00",
+            "Completed On": "2025-11-08 09:40:00",
+            "Was Late": false,
+            "Duration": "0 days 00:40:00",
+            "Is Outlier": false,
+            "Notes": ""
+        },
+        "9": {
+            "Task Name": "Weekend hiking trip",
+            "Task Type": "Rest",
+            "Task Importance": "Low",
+            "Start Time": "2025-11-09 07:00:00",
+            "Deadline": "2025-11-09 12:00:00",
+            "Completed On": "2025-11-09 11:55:00",
+            "Was Late": false,
+            "Duration": "0 days 04:55:00",
+            "Is Outlier": false,
+            "Notes": "With local group"
+        },
+        "10": {
+            "Task Name": "Prepare upcoming workshop slides",
+            "Task Type": "Work",
+            "Task Importance": "High",
+            "Start Time": "2025-11-11 15:00:00",
+            "Deadline": "2025-11-11 17:00:00",
+            "Completed On": "Ongoing",
+            "Was Late": null,
+            "Duration": null,
+            "Is Outlier": false,
+            "Notes": ""
+        }
+    }
+}

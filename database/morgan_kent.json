@@ -1,0 +1,96 @@
+{
+    "userstats": {
+        "Username": "morgan_kent",
+        "Total Tasks": 7,
+        "Completed Tasks": 6,
+        "Ongoing Tasks": 1,
+        "Late Tasks": 2,
+        "On-Time Rate (%)": 66.67
+    },
+    "userdata": {
+        "1": {
+            "Task Name": "Design client logo",
+            "Task Type": "Work",
+            "Task Importance": "High",
+            "Start Time": "2025-11-02 11:00:00",
+            "Deadline": "2025-11-03 14:00:00",
+            "Completed On": "2025-11-03 12:30:00",
+            "Was Late": false,
+            "Duration": "1 days 01:30:00",
+            "Is Outlier": false,
+            "Notes": "Logo for cafe brand"
+        },
+        "2": {
+            "Task Name": "Edit social media post",
+            "Task Type": "Work",
+            "Task Importance": "Medium",
+            "Start Time": "2025-11-04 16:00:00",
+            "Deadline": "2025-11-04 18:00:00",
+            "Completed On": "2025-11-04 18:20:00",
+            "Was Late": true,
+            "Duration": "0 days 02:20:00",
+            "Is Outlier": false,
+            "Notes": "Client requested color correction"
+        },
+        "3": {
+            "Task Name": "Take evening walk",
+            "Task Type": "Health",
+            "Task Importance": "Low",
+            "Start Time": "2025-11-05 18:00:00",
+            "Deadline": "2025-11-05 18:45:00",
+            "Completed On": "2025-11-05 18:40:00",
+            "Was Late": false,
+            "Duration": "0 days 00:40:00",
+            "Is Outlier": false,
+            "Notes": ""
+        },
+        "4": {
+            "Task Name": "Revise portfolio website",
+            "Task Type": "Work",
+            "Task Importance": "High",
+            "Start Time": "2025-11-06 20:00:00",
+            "Deadline": "2025-11-07 02:00:00",
+            "Completed On": "2025-11-07 01:40:00",
+            "Was Late": false,
+            "Duration": "0 days 05:40:00",
+            "Is Outlier": false,
+            "Notes": "Updated contact section"
+        },
+        "5": {
+            "Task Name": "Call with client",
+            "Task Type": "Work",
+            "Task Importance": "High",
+            "Start Time": "2025-11-08 15:00:00",
+            "Deadline": "2025-11-08 15:30:00",
+            "Completed On": "2025-11-08 15:40:00",
+            "Was Late": true,
+            "Duration": "0 days 00:40:00",
+            "Is Outlier": false,
+            "Notes": "Project feedback meeting"
+        },
+        "6": {
+            "Task Name": "Digital illustration practice",
+            "Task Type": "Personal",
+            "Task Importance": "Medium",
+            "Start Time": "2025-11-09 19:00:00",
+            "Deadline": "2025-11-09 21:00:00",
+            "Completed On": "2025-11-09 21:00:00",
+            "Was Late": false,
+            "Duration": "0 days 02:00:00",
+            "Is Outlier": false,
+            "Notes": "Practiced lighting and shading"
+        },
+        "7": {
+            "Task Name": "Sketch new concept art",
+            "Task Type": "Work",
+            "Task Importance": "High",
+            "Start Time": "2025-11-10 10:00:00",
+            "Deadline": "2025-11-10 14:00:00",
+            "Completed On": "Ongoing",
+            "Was Late": null,
+            "Duration": null,
+            "Is Outlier": false,
+            "Notes": ""
+        }
+    }
+}

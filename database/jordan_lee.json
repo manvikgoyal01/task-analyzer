@@ -1,0 +1,108 @@
+{
+    "userstats": {
+        "Username": "jordan_lee",
+        "Total Tasks": 8,
+        "Completed Tasks": 7,
+        "Ongoing Tasks": 1,
+        "Late Tasks": 3,
+        "On-Time Rate (%)": 57.14
+    },
+    "userdata": {
+        "1": {
+            "Task Name": "Complete lab assignment",
+            "Task Type": "Study",
+            "Task Importance": "High",
+            "Start Time": "2025-11-03 21:00:00",
+            "Deadline": "2025-11-04 23:59:00",
+            "Completed On": "2025-11-05 01:10:00",
+            "Was Late": true,
+            "Duration": "1 days 04:10:00",
+            "Is Outlier": false,
+            "Notes": "Networking lab"
+        },
+        "2": {
+            "Task Name": "Attend part-time shift",
+            "Task Type": "Work",
+            "Task Importance": "Medium",
+            "Start Time": "2025-11-05 17:00:00",
+            "Deadline": "2025-11-05 22:00:00",
+            "Completed On": "2025-11-05 22:00:00",
+            "Was Late": false,
+            "Duration": "0 days 05:00:00",
+            "Is Outlier": false,
+            "Notes": "Campus café shift"
+        },
+        "3": {
+            "Task Name": "Gym cardio session",
+            "Task Type": "Health",
+            "Task Importance": "Medium",
+            "Start Time": "2025-11-06 07:00:00",
+            "Deadline": "2025-11-06 08:00:00",
+            "Completed On": "2025-11-06 08:05:00",
+            "Was Late": true,
+            "Duration": "0 days 01:05:00",
+            "Is Outlier": false,
+            "Notes": ""
+        },
+        "4": {
+            "Task Name": "Study algorithms chapter",
+            "Task Type": "Study",
+            "Task Importance": "High",
+            "Start Time": "2025-11-07 20:00:00",
+            "Deadline": "2025-11-07 22:30:00",
+            "Completed On": "2025-11-07 22:20:00",
+            "Was Late": false,
+            "Duration": "0 days 02:20:00",
+            "Is Outlier": false,
+            "Notes": "Sorting and searching"
+        },
+        "5": {
+            "Task Name": "Dinner with roommate",
+            "Task Type": "Social",
+            "Task Importance": "Low",
+            "Start Time": "2025-11-08 19:30:00",
+            "Deadline": "2025-11-08 21:30:00",
+            "Completed On": "2025-11-08 21:40:00",
+            "Was Late": true,
+            "Duration": "0 days 02:10:00",
+            "Is Outlier": false,
+            "Notes": "Pizza night"
+        },
+        "6": {
+            "Task Name": "Weekend relaxation",
+            "Task Type": "Rest",
+            "Task Importance": "Low",
+            "Start Time": "2025-11-09 10:00:00",
+            "Deadline": "2025-11-09 18:00:00",
+            "Completed On": "2025-11-09 18:00:00",
+            "Was Late": false,
+            "Duration": "0 days 08:00:00",
+            "Is Outlier": false,
+            "Notes": "Watched movies"
+        },
+        "7": {
+            "Task Name": "Write literature essay",
+            "Task Type": "Study",
+            "Task Importance": "High",
+            "Start Time": "2025-11-10 15:00:00",
+            "Deadline": "2025-11-10 23:00:00",
+            "Completed On": "2025-11-10 23:30:00",
+            "Was Late": true,
+            "Duration": "0 days 08:30:00",
+            "Is Outlier": false,
+            "Notes": "Essay on modern poetry"
+        },
+        "8": {
+            "Task Name": "Prepare for quiz",
+            "Task Type": "Study",
+            "Task Importance": "High",
+            "Start Time": "2025-11-11 10:00:00",
+            "Deadline": "2025-11-11 13:00:00",
+            "Completed On": "Ongoing",
+            "Was Late": null,
+            "Duration": null,
+            "Is Outlier": false,
+            "Notes": ""
+        }
+    }
+}

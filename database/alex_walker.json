@@ -1,0 +1,84 @@
+{
+    "userstats": {
+        "Username": "alex_walker",
+        "Total Tasks": 6,
+        "Completed Tasks": 5,
+        "Ongoing Tasks": 1,
+        "Late Tasks": 2,
+        "On-Time Rate (%)": 60.0
+    },
+    "userdata": {
+        "1": {
+            "Task Name": "Prepare client report",
+            "Task Type": "Work",
+            "Task Importance": "High",
+            "Start Time": "2025-11-05 09:00:00",
+            "Deadline": "2025-11-06 18:00:00",
+            "Completed On": "2025-11-06 17:30:00",
+            "Was Late": false,
+            "Duration": "1 days 08:30:00",
+            "Is Outlier": false,
+            "Notes": "Quarterly summary"
+        },
+        "2": {
+            "Task Name": "Gym session",
+            "Task Type": "Health",
+            "Task Importance": "Medium",
+            "Start Time": "2025-11-07 07:30:00",
+            "Deadline": "2025-11-07 09:00:00",
+            "Completed On": "2025-11-07 09:15:00",
+            "Was Late": true,
+            "Duration": "0 days 01:45:00",
+            "Is Outlier": false,
+            "Notes": ""
+        },
+        "3": {
+            "Task Name": "Study data structures",
+            "Task Type": "Study",
+            "Task Importance": "High",
+            "Start Time": "2025-11-08 16:00:00",
+            "Deadline": "2025-11-08 19:00:00",
+            "Completed On": "2025-11-08 19:00:00",
+            "Was Late": false,
+            "Duration": "0 days 03:00:00",
+            "Is Outlier": false,
+            "Notes": "Focused on trees"
+        },
+        "4": {
+            "Task Name": "Dinner with friends",
+            "Task Type": "Social",
+            "Task Importance": "Low",
+            "Start Time": "2025-11-09 19:00:00",
+            "Deadline": "2025-11-09 23:00:00",
+            "Completed On": "2025-11-10 00:10:00",
+            "Was Late": true,
+            "Duration": "0 days 05:10:00",
+            "Is Outlier": false,
+            "Notes": "Weekend outing"
+        },
+        "5": {
+            "Task Name": "Meditation session",
+            "Task Type": "Personal",
+            "Task Importance": "Medium",
+            "Start Time": "2025-11-10 06:30:00",
+            "Deadline": "2025-11-10 07:00:00",
+            "Completed On": "2025-11-10 06:55:00",
+            "Was Late": false,
+            "Duration": "0 days 00:25:00",
+            "Is Outlier": false,
+            "Notes": "Morning calm"
+        },
+        "6": {
+            "Task Name": "Finish weekly planning",
+            "Task Type": "Work",
+            "Task Importance": "High",
+            "Start Time": "2025-11-11 09:30:00",
+            "Deadline": "2025-11-11 12:00:00",
+            "Completed On": "Ongoing",
+            "Was Late": null,
+            "Duration": null,
+            "Is Outlier": false,
+            "Notes": ""
+        }
+    }
+}
